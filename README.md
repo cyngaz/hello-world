@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+I am a loser and a beginner on using GitHub and Node.js.
+I will try my best to learn both of them.
